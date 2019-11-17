@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cea5cf29-b695-4865-8c7a-721736a9e4ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GotoFileConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="CLASS" />
+      <filtered-out-file-type name="Access Transformers" />
+      <filtered-out-file-type name="ActionScript" />
+      <filtered-out-file-type name="AIDL" />
+      <filtered-out-file-type name="Android RenderScript" />
+      <filtered-out-file-type name="Android Room SQL" />
+      <filtered-out-file-type name="AndroidDataBinding" />
+      <filtered-out-file-type name="Angular2Html" />
+      <filtered-out-file-type name="AsciiDoc" />
+      <filtered-out-file-type name="ASP" />
+      <filtered-out-file-type name="AspectJ" />
+      <filtered-out-file-type name="C#" />
+      <filtered-out-file-type name="C++" />
+      <filtered-out-file-type name="CFML" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="Context Free Grammar" />
+      <filtered-out-file-type name="Cookie storage file" />
+      <filtered-out-file-type name="Cucumber" />
+      <filtered-out-file-type name="CVP" />
+      <filtered-out-file-type name="Drools" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="Eclipse" />
+      <filtered-out-file-type name="EditorConfig" />
+      <filtered-out-file-type name="Enforced Plain Text" />
+      <filtered-out-file-type name="Erlang" />
+      <filtered-out-file-type name="Flow" />
+      <filtered-out-file-type name="FTL" />
+      <filtered-out-file-type name="GitIgnore file" />
+      <filtered-out-file-type name="Groovy" />
+      <filtered-out-file-type name="GSP" />
+      <filtered-out-file-type name="GUI_DESIGNER_FORM" />
+      <filtered-out-file-type name="Haml" />
+      <filtered-out-file-type name="Haskell" />
+      <filtered-out-file-type name="HgIgnore file" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="HTTP Request" />
+      <filtered-out-file-type name="I18n" />
+      <filtered-out-file-type name="IDEA_MODULE" />
+      <filtered-out-file-type name="IDEA_PROJECT" />
+      <filtered-out-file-type name="IDEA_WORKSPACE" />
+      <filtered-out-file-type name="IDL" />
+      <filtered-out-file-type name="IgnoreLang file" />
+      <filtered-out-file-type name="Ini" />
+      <filtered-out-file-type name="JavaFX" />
+      <filtered-out-file-type name="Jest Snapshot" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JSCS" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSON5" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="Kotlin" />
+      <filtered-out-file-type name="Kotlin/Native Def" />
+      <filtered-out-file-type name="Less" />
+      <filtered-out-file-type name="Literate CoffeeScript" />
+      <filtered-out-file-type name="Manifest" />
+      <filtered-out-file-type name="Markdown" />
+      <filtered-out-file-type name="MavenConfig" />
+      <filtered-out-file-type name="Mixin Configuration" />
+      <filtered-out-file-type name="MXML" />
+      <filtered-out-file-type name="NBTT" />
+      <filtered-out-file-type name="PATCH" />
+      <filtered-out-file-type name="Perl" />
+      <filtered-out-file-type name="PHP" />
+      <filtered-out-file-type name="PLAIN_TEXT" />
+      <filtered-out-file-type name="Play" />
+      <filtered-out-file-type name="ProGuard File" />
+      <filtered-out-file-type name="Properties" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="RNG Compact" />
+      <filtered-out-file-type name="Sass" />
+      <filtered-out-file-type name="Scratch" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="Shell Script" />
+      <filtered-out-file-type name="Smali" />
+      <filtered-out-file-type name="SourceMap" />
+      <filtered-out-file-type name="SPI" />
+      <filtered-out-file-type name="spring.binders" />
+      <filtered-out-file-type name="spring.factories" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="SVG" />
+      <filtered-out-file-type name="textmate" />
+      <filtered-out-file-type name="TML" />
+      <filtered-out-file-type name="tsconfig" />
+      <filtered-out-file-type name="Twelf" />
+      <filtered-out-file-type name="TwelfConfig" />
+      <filtered-out-file-type name="VTL" />
+      <filtered-out-file-type name="yarn.lock" />
+      <filtered-out-file-type name="Adobe Photoshop" />
+      <filtered-out-file-type name="Android Nine-Patch" />
+      <filtered-out-file-type name="AndroidProfilerCpuCapture" />
+      <filtered-out-file-type name="AndroidProfilerMemoryCapture" />
+      <filtered-out-file-type name="Angular Metadata JSON" />
+      <filtered-out-file-type name="APK" />
+      <filtered-out-file-type name="ARCHIVE" />
+      <filtered-out-file-type name="Database Element" />
+      <filtered-out-file-type name="DATASOURCE_STORAGE" />
+      <filtered-out-file-type name="dependency diagram" />
+      <filtered-out-file-type name="EJB" />
+      <filtered-out-file-type name="Font" />
+      <filtered-out-file-type name="H2 Database" />
+      <filtered-out-file-type name="Image" />
+      <filtered-out-file-type name="J2EEModule" />
+      <filtered-out-file-type name="KJSM" />
+      <filtered-out-file-type name="KNM" />
+      <filtered-out-file-type name="kotlin_builtins" />
+      <filtered-out-file-type name="kotlin_module" />
+      <filtered-out-file-type name="Layout Inspector" />
+      <filtered-out-file-type name="Native" />
+      <filtered-out-file-type name="NBT" />
+      <filtered-out-file-type name="PeristenceUnit" />
+      <filtered-out-file-type name="ResourceBundle" />
+      <filtered-out-file-type name="Servlet" />
+      <filtered-out-file-type name="SQLite" />
+      <filtered-out-file-type name="SQLite Database" />
+      <filtered-out-file-type name="SWF" />
+      <filtered-out-file-type name="UML" />
+      <filtered-out-file-type name="UNKNOWN" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1TkipZDpgVJoFcu0jRdBIwyL4D8" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Whiz_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_class_design.quiz.Whiz_2" />
+      <module name="scjp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_class_design.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Whiz_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cea5cf29-b695-4865-8c7a-721736a9e4ee" name="Default Changelist" comment="" />
+      <created>1574010677924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574010677924</updated>
+      <workItem from="1574010681953" duration="183000" />
+      <workItem from="1574014207359" duration="1291000" />
+      <workItem from="1574015722971" duration="114000" />
+      <workItem from="1574015852187" duration="2500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
