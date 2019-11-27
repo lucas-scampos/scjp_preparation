@@ -3,7 +3,72 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$APPLICATION_HOME_DIR$/jbr!/java.base/java/io/PrintStream.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_PLUGINS_DIR$/scratches/scratch2.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_PLUGINS_DIR$/scratches/scratch3.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/GradleTutorials/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/GradleTutorials/src/main/java/org.gradle.poetry/Poetry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/GradleTutorials/src/org.gradle.poetry/Poetry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/date_time_api/quiz/Whiz_10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/date_time_api/quiz/Whiz_11.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/date_time_api/quiz/Whiz_7.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/date_time_api/quiz/Whiz_8.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/date_time_api/quiz/Whiz_9.java">
           <value>
             <set />
           </value>
@@ -34,6 +99,71 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/java_class_design/quiz/Whiz_3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/java_io_fund/quiz/Whiz_4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/lambda/quiz/Whiz_5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/lambda/quiz/Whiz_6.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/lambda/quiz/Whiz_7.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/nio_2/quiz/Whiz_5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/quiz/diagnostic_test/whiz78.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streams/quiz/Whiz_10.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streams/quiz/Whiz_11.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streams/quiz/Whiz_13.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streams/quiz/Whiz_14.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/streams/quiz/Whiz_9.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/lambda/quiz/Whiz_3.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/streams/UsingFlatMap.class">
           <value>
             <set />
           </value>
